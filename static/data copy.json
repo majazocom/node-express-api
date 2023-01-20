@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Cold brew",
+            "price": 39
+        },
+        {
+            "id": 2,
+            "title": "Chai Latte",
+            "price": 49
+        }
+        ,{
+            "id": 3,
+            "title": "Luxe Latte",
+            "price": 69
+        }
+    ]
+}
